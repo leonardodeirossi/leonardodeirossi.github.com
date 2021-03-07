@@ -1,2 +1,4 @@
-# leonardodeirossi.github.com
-My official portfolio website - Powered by GitHub
+# My official Portfolio
+This is my official portfolio
+
+Copyright (C) 2021 - Leonardo Essam Dei Rossi
